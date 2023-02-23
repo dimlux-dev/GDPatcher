@@ -1,7 +1,7 @@
 from program import open_file, write_file, patcher, base64_encode
 
 #открытие файлов
-dir = "/storage/emulated/0/DimLux/python/gdpatcher/" #нужно указать путь, где находится main.py. (опционально, некоторых случия можно не указывать, зависит от ОС, Windows или Linux)
+dir = "" #нужно указать путь, где находится main.py. (опционально, некоторых случия можно не указывать, зависит от ОС, Windows или Linux)
 
 #можно использовать свои библиотеки
 
