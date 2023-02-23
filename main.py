@@ -20,7 +20,7 @@ luxcoriaIcon = open_file(dir + "luxcoriaIcon.txt", "r")
 ##############################
 
 #конфиги
-url_database = "http://luxcoria.7m.pl/server/////" #не больше не меньше 33 символов
+url_database = "http://mygdps.com/////////" #не больше не меньше 33 символов
 ####################################
 
 #пачинг
